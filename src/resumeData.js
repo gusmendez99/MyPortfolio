@@ -2,7 +2,7 @@ let resumeData = {
 	"imagebaseurl": "https://gusmendez99.github.io/",
 	"name": "Gustavo Mendez",
 	"role": "Developer and Coding lover",
-	"email": "gus.mendez.99@gmail.com",
+	"email": "men18500@uvg.edu.gt",
 	"skypeid": "Your skypeid",
 	"roleDescription": " I like dabbling in some parts of frontend n' backend development and like to learn about new technologies, or simply play games or watch soccer in my free time.",
 	"socialLinks": [
@@ -18,7 +18,7 @@ let resumeData = {
 		},
 		{
 			"name": "mail",
-			"url": "mailto:gus.mendez.99@gmail.com",
+			"url": "mailto:men18500@uvg.edu.gt",
 			"className": "fa fa-envelope"
 		}
 	],
@@ -79,7 +79,7 @@ let resumeData = {
 			"skillname": "Angular"
 		},
 		{
-			"skillname": "ReactJS"
+			"skillname": "React"
 		}
 		
 	],
@@ -87,7 +87,12 @@ let resumeData = {
 		{
 			"name": "PackHash",
 			"description": "App made in Android, like Uber Eats (with @luisurbina)",
-			"imgurl": "images/portfolio/packhash.jpeg"
+			"imgurl": "images/portfolio/packhash.jpg"
+		},
+		{
+			"name": "CRWN Store",
+			"description": "Webapp store made with React",
+			"imgurl": "images/portfolio/crwn.jpeg"
 		},
 		{
 			"name": "Hire App",
@@ -95,35 +100,44 @@ let resumeData = {
 			"imgurl": "images/portfolio/hireapp.jpeg"
 		},
 		{
-			"name": "Zombie Survival",
-			"description": "Game made in Unity, as zombie survival with two levels: video here: ",
-			"imgurl": "images/portfolio/zombiesurvival.png"
-		},
-		{
-			"name": "Discovr",
-			"description": "Webapp made with NEAN Stack (Neo4J, Angular, Express n' Node)",
-			"imgurl": "images/portfolio/discovr.jpeg"
-		},
-		{
-			"name": "PrimeShop GT",
-			"description": "E-commerce website made with Wordpress, with more than 100,000 fans on Facebook",
-			"imgurl": "images/portfolio/primeshopgt.png"
+			"name": "Azen Store",
+			"description": "Mobile Store App made with React Native. Link: https://www.youtube.com/watch?v=LN4_xqLlAZI&lc",
+			"imgurl": "images/portfolio/azen.jpeg"
 		},
 		{
 			"name": "Forest Village GT",
 			"description": "Website for rent Glampings and cabins, made with Wordpress",
-			"imgurl": "images/portfolio/forestvillage.jpg"
-		}
+			"imgurl": "images/portfolio/forest1.png"
+		},
+		{
+			"name": "Forest Village GT",
+			"description": "Website for rent Glampings and cabins, made with Wordpress",
+			"imgurl": "images/portfolio/forest2.png"
+		},
+		{
+			"name": "PrimeShop GT",
+			"description": "E-commerce website made with React, with more than 100,000 fans on Facebook",
+			"imgurl": "images/portfolio/primeshop1.png"
+		},
+		{
+			"name": "PrimeShop GT",
+			"description": "E-commerce website made with React, with more than 100,000 fans on Facebook",
+			"imgurl": "images/portfolio/primeshop2.png"
+		},
 	],
 	"testimonials": [
 		{
 			"description": "Good logo designer",
-			"name": "Rolando Mendez"
+			"name": "Sebastian Polanco"
 		},
 		{
 			"description": "Good programmer, Kinal power",
 			"name": "Luis Urbina"
-		}
+		},
+		{
+			"description": "I really like his way of coding",
+			"name": "Fernando Juárez"
+		},
 	]
 }
 
